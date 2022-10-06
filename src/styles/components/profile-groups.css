@@ -47,14 +47,17 @@
   display: inline-block;
   height: 190px;
   width: 100%;
+  background-color: 52C1AD;
 }
 
 .profile-group-avatar + p {
   padding-top: 16px;
+  background-color: 58B1C9;
 }
 
 .profile-group-avatar + p + a {
   padding-bottom: 16px;
+  background-color: C152A2;
 }
 
 .profile-group-avatar img {

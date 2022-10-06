@@ -28,7 +28,11 @@
 }
 
 .profile-list-item .top-friend-flag {
-  display: none;
+  display: in-line-block;
+  border: 2px solid red;
+  background-color: F0F8FF;
+  padding: 6px;
+
 }
 
 .profile-list-item .top-friend-flag + .page-paragraph {
